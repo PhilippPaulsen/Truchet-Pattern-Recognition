@@ -1,2 +1,2 @@
-# Truchet_Pattern_Recognition
- Symmetry_Learner
+# Truchet Pattern Recognition
+ Symmetry Learner
